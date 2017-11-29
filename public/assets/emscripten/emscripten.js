@@ -1,0 +1,1 @@
+var data = {memoryInitializer: 'assets/emscripten/emscripten.js.mem'};
